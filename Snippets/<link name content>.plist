@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;input type="hidden" name="$2" value="$3"${TM_XHTML}&gt;</string>
+	<string>&lt;meta name="${1:name}" content="${2:content}"${TM_POLYGLOT}&gt;$0</string>
 	<key>name</key>
-	<string>&lt;input type=hidden&gt;</string>
+	<string>&lt;meta name content&gt;</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>input</string>
+	<string>meta</string>
 	<key>uuid</key>
-	<string>44180979-A08E-11D9-A5A2-000D93C8BE28</string>
+	<string>DA99AC44-A083-11D9-A5A2-000D93C8BE28</string>
 </dict>
 </plist>
