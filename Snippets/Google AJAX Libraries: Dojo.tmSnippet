@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;script src="http://ajax.googleapis.com/ajax/libs/dojo/${1:1.3}/dojo/dojo.xd.js${2:.uncompressed.js}"&gt;&lt;/script&gt;</string>
+	<string>&lt;script src="//ajax.googleapis.com/ajax/libs/dojo/${1:1.3}/dojo/dojo.xd.js${2:.uncompressed.js}"&gt;&lt;/script&gt;</string>
 	<key>name</key>
 	<string>Google AJAX Libraries: Dojo</string>
 	<key>scope</key>
